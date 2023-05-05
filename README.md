@@ -1,7 +1,7 @@
 # PDFGPT
 #### Video Demo:  <https://youtu.be/-p2tEfgyBEw>
 #### Description:
-This code creats a Generative pre-trained transformer, that can parse through pdf files and answeruser prompts about the pdf files
+This code creats a Generative pre-trained transformer, that can parse through pdf files and answer user prompts about the pdf files
 
 ### Requirements
 PyPDF2
